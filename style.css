@@ -1,0 +1,46 @@
+nav {
+    background-color: #222;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+}
+nav .navbrand a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1.5rem
+}
+nav .navbrand img{
+    width: 40px;
+}
+.navtitle {
+    font-size: 1.1rem;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #222;
+    width: 100%;
+    font-size: 0.9rem;
+    color: aliceblue;
+    padding: 0.5rem;
+}
+.footer a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.footer ul {
+    padding: 0;
+}
+.footer li {
+    list-style-type: none;
+}
+.created_by{
+    font-size: 0.8rem;
+    margin: 0;
+    text-align: end;
+}
+label {
+    font-size: 0.9rem;
+}
