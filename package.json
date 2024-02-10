@@ -1,0 +1,20 @@
+{
+  "name": "demo-gestion-orden-corte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarkastherin/Demo-gestion-orden-corte.git"
+  },
+  "keywords": [],
+  "author": "Katherin Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sarkastherin/Demo-gestion-orden-corte/issues"
+  },
+  "homepage": "https://github.com/Sarkastherin/Demo-gestion-orden-corte#readme"
+}
