@@ -1,6 +1,6 @@
 
 # Demo de Formulario
-Este repositorio contiene un formulario demo que forma parte del proyecto *Formularo para solicitud de piezas*. El formulario ha sido creado con el propósito de demostrar la interfaz, el diseño, y el funcionamiento de algunos eventos.
+Este repositorio contiene un formulario demo que forma parte del proyecto **Formulario para solicitud de piezas**. El formulario ha sido creado con el propósito de demostrar la interfaz, el diseño, y el funcionamiento de algunos eventos.
 
 ## Captura de pantallas
 
@@ -9,10 +9,10 @@ Este repositorio contiene un formulario demo que forma parte del proyecto *Formu
 
 ### Funcionalidades
 
-- Contiene los compos básicos para el mantenimeinto de un registro.
+- Contiene los campos básicos para el mantenimiento de un registro.
 - Valida la información de la pieza ingresada.
 - Al encontrar la pieza, agrega la descripción en el input destinado
-- De no encontrarla, abre una ventana modal con un mensaje.
+- De no encontrarla, abre una ventana modal con un mensaje de error.
 
 
 ## Licencia
