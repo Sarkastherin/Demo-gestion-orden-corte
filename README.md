@@ -4,7 +4,7 @@ Este repositorio contiene un formulario demo que forma parte del proyecto **Form
 
 ## Captura de pantallas
 
-![App Screenshot](./src/assets/ss_form-001.png)
+![App Screenshot](./src/assets/Phone%20ss%20PROJ-0001-Canva%20version.png)
 
 
 ### Funcionalidades

@@ -1,3 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+html, body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 nav {
     background-color: #222;
     color: aliceblue;
@@ -15,11 +25,13 @@ nav .navbrand img{
     width: 40px;
 }
 .navtitle {
-    font-size: 1.1rem;
+    font-size: 1rem;
+}
+.container-form {
+    max-width: 470px;
+    margin: 50px auto;
 }
 .footer {
-    position: fixed;
-    bottom: 0;
     background-color: #222;
     width: 100%;
     font-size: 0.9rem;
@@ -43,4 +55,17 @@ nav .navbrand img{
 }
 label {
     font-size: 0.9rem;
+}
+.btn-pieza {
+    text-align: start;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    background-color: #dddddd86;
+}
+.btn-pieza:hover {
+    border: 1px solid #ddd;
+    background-color: #e6faff;
+}
+.alert {
+    border-color: red;
 }
